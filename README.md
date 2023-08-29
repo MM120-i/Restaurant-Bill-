@@ -27,6 +27,7 @@ Dependencies:
 
 Usage Example:  
 $ gcc RB.c -o restaurant_billing
+
 $ ./restaurant_billing
 
 Note:
